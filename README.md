@@ -2,7 +2,7 @@
 ~ Nodejs and Expressjs Environment Setup
 
 # Type of Module helpful Blog (ES6)
-~ https://stackoverflow.com/questions/61401475/why-is-type-module-in-package-json-file
+~ [https://stackoverflow.com/questions/61401475/why-is-type-module-in-package-json-file]
 
 ### EJS
 ~ change the files names inside ui folder
@@ -15,3 +15,6 @@ index.html ===> index.ejs
 ~ git pull (if you want to pull this repo)
 ~ git remote -v (to view existing remotes)
 ~ git remote set-url origin [your repository HTTPS or SSH]
+~ Helpful blogs: 
+~ [https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/git-push-new-branch-remote-github-gitlab-upstream-example]
+~ [https://devconnected.com/how-to-change-git-remote-origin/]
