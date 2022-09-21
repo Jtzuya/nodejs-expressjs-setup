@@ -1,0 +1,31 @@
+{
+  "name": "nodejs-expressjs-setup",
+  "version": "1.0.0",
+  "description": "Built-in default environment setup for projects",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jtzuya/nodejs-expressjs-setup.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "Ehy Thatsuyha Jake Luena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jtzuya/nodejs-expressjs-setup/issues"
+  },
+  "homepage": "https://github.com/Jtzuya/nodejs-expressjs-setup#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
